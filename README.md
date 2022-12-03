@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm [Rick](https://www.linkedin.com/in/rick-d-johnston/). 👋
+
+I'm an email marketing specialist with a keen interest in development.
+
+I've been learning HTML & CSS for the past couple of years and feel like I've got a good grasp on it now.
+
+Currently, I'm learning JavaScript and creating a very niched Chrome extension—something to eliminate a common frustration I have at work every day.
+
+Aside from the Chrome extension, I'll be diving into Frontend Mentor challenges and building a portfolio of work through their platform with repositories hosted here.
+
+The best way to get in touch with me is to [message me on LinkedIn](https://www.linkedin.com/in/rick-d-johnston/).
 
 <!--
 **rdjxyz/rdjxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
