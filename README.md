@@ -8,7 +8,7 @@ Currently, I'm learning JavaScript and creating a very niched Chrome extension�
 
 Aside from that, I'll be doing Frontend Mentor challenges and building a [portfolio of work](https://www.frontendmentor.io/profile/rdjxyz) through their platform with repositories hosted here.
 
-The best way to get in touch with me is to [message me on LinkedIn](https://www.linkedin.com/in/rick-d-johnston/).
+The best way to get in touch is to [message me on LinkedIn](https://www.linkedin.com/in/rick-d-johnston/).
 
 <!--
 **rdjxyz/rdjxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
