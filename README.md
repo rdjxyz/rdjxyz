@@ -5,8 +5,7 @@ I'm an email marketing specialist with a keen interest in development.
 I've been learning HTML & CSS for the past couple of years and feel like I've got a good grasp on it now.
 
 Currently, I'm learning JavaScript and creating a very niched Chrome extension—something to eliminate a common frustration I have at work every day.
-
-Aside from that, I'll be doing Frontend Mentor challenges and building a [portfolio of work](https://www.frontendmentor.io/profile/rdjxyz) through their platform with repositories hosted here.
+<!-- Aside from that, I'll be doing Frontend Mentor challenges and building a [portfolio of work](https://www.frontendmentor.io/profile/rdjxyz) through their platform with repositories hosted here. -->
 
 The best way to get in touch is to [message me on LinkedIn](https://www.linkedin.com/in/rick-d-johnston/).
 
