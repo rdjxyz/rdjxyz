@@ -4,11 +4,11 @@ I'm a DTC Retention Strategist by day and a solo indie dev by night.
 
 **Currently building:**
 
-- AI assistant for DTC email/sms marketing at scale
 - Guided workflow and best practices for AI assisted development
 - Proprietary Shopify app for e-commerce optimization
+- AI assistant for DTC email/sms marketing at scale
 
-**Building with:** Claude Code and Cursor
+**Building with:** Claude Code
 
 If you want to connect or collaborate, the best way to get in touch is to [message me on LinkedIn](https://www.linkedin.com/in/rick-d-johnston/).
 
